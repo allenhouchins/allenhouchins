@@ -9,8 +9,8 @@ osquery> SELECT name, works_at, builds, off_the_clock FROM whoami;
 +-----------------+-------------------+--------------------------------------------+--------------------------------+
 | name            | works_at          | builds                                     | off_the_clock                  |
 +-----------------+-------------------+--------------------------------------------+--------------------------------+
-| Allen Houchins  | Fleet (@fleetdm)  | osquery extensions, GitOps, MDM tooling,   | homelab, homestead, KuneKune   |
-|                 |                   | trackers that keep themselves up to date   | pigs                           |
+| Allen Houchins  | Fleet (@fleetdm)  | osquery extensions, GitOps, MDM tooling,   | hunting, homesteading,         |
+|                 |                   | trackers that keep themselves up to date   | comic books                    |
 +-----------------+-------------------+--------------------------------------------+--------------------------------+
 1 row in set (0.00 sec)
 ```
