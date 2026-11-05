@@ -30,7 +30,7 @@ osquery> SELECT * FROM fleet_live_stats;
 | new_homebrew_casks_7d | 27            | newest: Screendrop        |
 | latest_fleet_release  | fleet-v4.94.0 |                           |
 +-----------------------+---------------+---------------------------+
-6 rows in set. Last refreshed 2026-11-05 03:05 UTC
+6 rows in set. Last refreshed 2026-11-05 03:08 UTC
 ```
 <!-- LIVE:END -->
 
