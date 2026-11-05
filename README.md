@@ -81,5 +81,6 @@ flowchart LR
 
 <p align="center">
   <a href="https://fleetdm.com">fleetdm.com</a> ·
+  <a href="https://allenhouchins.github.io">all my tools</a> ·
   <a href="https://www.linkedin.com/in/allenhouchins">LinkedIn</a>
 </p>
