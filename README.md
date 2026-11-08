@@ -23,14 +23,14 @@ osquery> SELECT * FROM fleet_live_stats;
 +-----------------------+---------------+---------------------------+
 | metric                | value         | trend                     |
 +-----------------------+---------------+---------------------------+
-| fleet_maintained_apps | 1,424         | ▁▂▃▄▄▄▄▅▅▆▆▆▆▆▇█  (16 wk) |
+| fleet_maintained_apps | 1,424         | ▁▂▄▄▄▄▅▅▆▆▆▆▆▆█▇  (16 wk) |
 |   macos / windows     | 963 / 461     |                           |
-| apps_added_last_30d   | +1            |                           |
-| fma_patches_last_7d   | 535           |                           |
-| new_homebrew_casks_7d | 27            | newest: WallpaperMachine  |
+| apps_added_last_30d   | +2            |                           |
+| fma_patches_last_7d   | 523           |                           |
+| new_homebrew_casks_7d | 26            | newest: Tree Outliner     |
 | latest_fleet_release  | fleet-v4.94.1 |                           |
 +-----------------------+---------------+---------------------------+
-6 rows in set. Last refreshed 2026-11-07 18:16 UTC
+6 rows in set. Last refreshed 2026-11-08 18:28 UTC
 ```
 <!-- LIVE:END -->
 
