@@ -5,13 +5,13 @@
 </picture>
 
 ```sql
-osquery> SELECT name, works_at, builds, off_the_clock FROM whoami;
-+-----------------+-------------------+--------------------------------------------+--------------------------------+
-| name            | works_at          | builds                                     | off_the_clock                  |
-+-----------------+-------------------+--------------------------------------------+--------------------------------+
-| Allen Houchins  | Fleet (@fleetdm)  | fleet extensions, GitOps, MDM stuff,       | hunting, homesteading,         |
-|                 |                   | app management tooling                     | comic books                    |
-+-----------------+-------------------+--------------------------------------------+--------------------------------+
+osquery> SELECT name, works_at, builds FROM whoami;
++-----------------+-------------------+--------------------------------------------+
+| name            | works_at          | builds                                     |
++-----------------+-------------------+--------------------------------------------+
+| Allen Houchins  | Fleet (@fleetdm)  | fleet extensions, GitOps, MDM stuff,       |
+|                 |                   | app management tooling                     |
++-----------------+-------------------+--------------------------------------------+
 1 row in set (0.00 sec)
 ```
 
@@ -70,12 +70,6 @@ flowchart LR
     fma[(Fleet-maintained apps<br/>fleetdm/fleet)] --> tracker[fmalibrary.com]
     nct -.->|candidates for new FMAs| fma
 ```
-
-### 🗓️ Now
-
-<!-- NOW:START -->
-- Cleaning up this profile 🧹
-<!-- NOW:END -->
 
 ---
 
