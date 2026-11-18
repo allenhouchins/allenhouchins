@@ -23,14 +23,14 @@ osquery> SELECT * FROM fleet_live_stats;
 +-----------------------+---------------+---------------------------+
 | metric                | value         | trend                     |
 +-----------------------+---------------+---------------------------+
-| fleet_maintained_apps | 1,456         | ▁▂▂▂▂▃▄▅▅▆▆▅▆█▇▆  (16 wk) |
-|   macos / windows     | 965 / 491     |                           |
-| apps_added_last_30d   | +34           |                           |
-| fma_patches_last_7d   | 559           |                           |
-| new_homebrew_casks_7d | 27            | newest: Upload Remote     |
+| fleet_maintained_apps | 1,457         | ▁▂▂▂▃▃▄▄▅▅▅▅▆▇▆█  (16 wk) |
+|   macos / windows     | 965 / 492     |                           |
+| apps_added_last_30d   | +32           |                           |
+| fma_patches_last_7d   | 426           |                           |
+| new_homebrew_casks_7d | 30            | newest: Zephium           |
 | latest_fleet_release  | fleet-v4.95.0 |                           |
 +-----------------------+---------------+---------------------------+
-6 rows in set. Last refreshed 2026-11-17 21:53 UTC
+6 rows in set. Last refreshed 2026-11-18 21:34 UTC
 ```
 <!-- LIVE:END -->
 
