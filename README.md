@@ -23,14 +23,14 @@ osquery> SELECT * FROM fleet_live_stats;
 +-----------------------+---------------+---------------------------+
 | metric                | value         | trend                     |
 +-----------------------+---------------+---------------------------+
-| fleet_maintained_apps | 1,474         | ▁▁▁▁▂▃▃▄▄▄▄▄▆▅▄█  (16 wk) |
-|   macos / windows     | 967 / 507     |                           |
-| apps_added_last_30d   | +38           |                           |
-| fma_patches_last_7d   | 496           |                           |
-| new_homebrew_casks_7d | 29            | newest: VelaTerm          |
-| latest_fleet_release  | fleet-v4.95.0 |                           |
+| fleet_maintained_apps | 1,482         | ▁▁▁▁▂▃▃▄▄▄▄▅▆▅▄█  (16 wk) |
+|   macos / windows     | 968 / 514     |                           |
+| apps_added_last_30d   | +45           |                           |
+| fma_patches_last_7d   | 466           |                           |
+| new_homebrew_casks_7d | 29            | newest: Tactile           |
+| latest_fleet_release  | fleet-v4.96.0 |                           |
 +-----------------------+---------------+---------------------------+
-6 rows in set. Last refreshed 2026-11-24 01:10 UTC
+6 rows in set. Last refreshed 2026-11-24 23:14 UTC
 ```
 <!-- LIVE:END -->
 
