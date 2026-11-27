@@ -23,14 +23,14 @@ osquery> SELECT * FROM fleet_live_stats;
 +-----------------------+---------------+---------------------------+
 | metric                | value         | trend                     |
 +-----------------------+---------------+---------------------------+
-| fleet_maintained_apps | 1,485         | ▁▁▁▁▂▂▃▃▃▃▃▅▅▃▆█  (16 wk) |
+| fleet_maintained_apps | 1,485         | ▁▁▁▁▂▂▃▃▃▃▃▄▅▃▆█  (16 wk) |
 |   macos / windows     | 969 / 516     |                           |
 | apps_added_last_30d   | +45           |                           |
-| fma_patches_last_7d   | 445           |                           |
-| new_homebrew_casks_7d | 23            | newest: Paradev           |
+| fma_patches_last_7d   | 402           |                           |
+| new_homebrew_casks_7d | 20            | newest: StableBar         |
 | latest_fleet_release  | fleet-v4.96.0 |                           |
 +-----------------------+---------------+---------------------------+
-6 rows in set. Last refreshed 2026-11-26 22:33 UTC
+6 rows in set. Last refreshed 2026-11-27 22:17 UTC
 ```
 <!-- LIVE:END -->
 
